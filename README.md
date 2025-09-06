@@ -1,6 +1,4 @@
 # Distance-Measurement-System
 Create a system to measure the distance using ultrasonic sensor HC-SR04
 Use ATmega32 Microcontroller with frequency 8Mhz.
-Measure the distance using the Ultrasonic sensor HC-SR04. Check the “HC-SR04 
-Ultrasonic MT Student Tutorial” pdf file to understand how to interface with this 
-sensor.
+Measure the distance using the Ultrasonic sensor HC-SR04.
